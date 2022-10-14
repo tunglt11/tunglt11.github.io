@@ -3,7 +3,12 @@
     "",
     "\\assets",
     "\\assets\\css",
-    "\\assets\\img"
+    "\\assets\\img",
+    "\\assets\\scss",
+    "\\assets\\vendor",
+    "\\assets\\vendor\\boxicons",
+    "\\assets\\vendor\\boxicons\\css"
   ],
+  "SelectedNode": "\\assets\\img\\statistics.svg",
   "PreviewInSolutionExplorer": false
 }
