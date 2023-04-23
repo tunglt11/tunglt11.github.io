@@ -1,12 +1,8 @@
 {
   "ExpandedNodes": [
-    "",
+    "\\assets",
     "\\assets\\css",
-    "\\assets\\img",
-    "\\assets\\img\\autoweighing",
-    "\\assets\\vendor",
-    "\\assets\\vendor\\bootstrap\\css"
+    "\\assets\\img"
   ],
-  "SelectedNode": "\\tramcanxetai.html",
   "PreviewInSolutionExplorer": false
 }
