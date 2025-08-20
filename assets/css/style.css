@@ -1587,9 +1587,6 @@ section {
 
 /* ===== Responsive ===== */
 @media (max-width: 991.98px) {
-  .imenu-hero {
-    padding: 120px 0 56px;
-  }
   .imenu-title {
     font-size: 30px;
     line-height: 1.25;
@@ -1606,11 +1603,20 @@ section {
   }
 }
 @media (max-width: 575.98px) {
-  .imenu-hero {
-    padding: 128px 0 52px;
-  }
   .imenu-hero .container {
     padding: 0 16px;
+  }
+  .imenu-hero .d-flex.gap-3.flex-wrap {
+    flex-wrap: nowrap;
+    gap: 8px;
+  }
+  .imenu-hero .btn-get-started,
+  .imenu-hero .btn-ghost {
+    flex: 1 1 auto;
+    font-size: 14px;
+    padding: 6px 10px;
+    white-space: nowrap;
+    text-align: center;
   }
 }
 
