@@ -87,6 +87,7 @@ h6,
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
 }
 
+#header .logo .site-name,
 #header .logo h1 {
   font-size: 30px;
   margin: 0;
@@ -95,6 +96,8 @@ h6,
   letter-spacing: 2px;
 }
 
+#header .logo .site-name a,
+#header .logo .site-name a:hover,
 #header .logo h1 a,
 #header .logo h1 a:hover {
   color: #7a6960;
@@ -515,6 +518,7 @@ section {
   min-height: 40px;
 }
 
+.breadcrumbs h1,
 .breadcrumbs h2 {
   font-size: 24px;
   font-weight: 300;
@@ -1708,4 +1712,115 @@ section {
 html,
 body {
   overflow-x: hidden;
+}
+
+/* ===== Tiêu đề khối lớn (FAQ, trang dịch vụ) ===== */
+.section-title.title-lg h2 {
+  font-size: 32px;
+  line-height: 1.3;
+  color: #4e4039;
+  margin-bottom: 12px;
+  padding-bottom: 15px;
+  position: relative;
+}
+.section-title.title-lg h2::after {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 60px;
+  height: 2px;
+  background: #eb5d1e;
+  bottom: 0;
+  left: calc(50% - 30px);
+}
+.section-title.title-lg p {
+  font-size: 17px;
+  font-weight: 400;
+  color: #7a6960;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+.section-title.title-lg p::after {
+  display: none;
+}
+@media (max-width: 575.98px) {
+  .section-title.title-lg h2 {
+    font-size: 24px;
+  }
+}
+
+/* ===== Khối nội dung trang dịch vụ / giới thiệu ===== */
+.kt-answer {
+  background: #fff;
+  border-left: 3px solid #eb5d1e;
+  padding: 18px 22px;
+  border-radius: 6px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
+  margin-bottom: 26px;
+}
+.kt-answer p:last-child {
+  margin-bottom: 0;
+}
+.kt-card {
+  height: 100%;
+  background: #fff;
+  padding: 24px;
+  border-radius: 8px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
+  transition: 0.3s;
+}
+.kt-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.1);
+}
+.kt-card h3 {
+  font-size: 19px;
+  font-weight: 700;
+  color: #4e4039;
+  margin-bottom: 10px;
+}
+.kt-card i {
+  font-size: 30px;
+  color: #eb5d1e;
+  margin-bottom: 12px;
+  display: block;
+}
+.kt-table {
+  width: 100%;
+  background: #fff;
+  border-collapse: collapse;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
+}
+.kt-table th,
+.kt-table td {
+  border: 1px solid #f1e5df;
+  padding: 12px 14px;
+  vertical-align: top;
+  font-size: 15px;
+}
+.kt-table th {
+  background: #fef5f1;
+  color: #4e4039;
+  font-weight: 700;
+}
+.kt-meta {
+  color: #8a7b73;
+  font-size: 14px;
+}
+
+/* Ảnh hero là SVG có nhãn chữ — cần lớn hơn mặc định của template trên màn hình nhỏ */
+@media (max-width: 991px) {
+  #hero .hero-img img {
+    width: 78%;
+  }
+}
+@media (max-width: 575.98px) {
+  #hero {
+    height: auto;
+    min-height: calc(100vh - 72px);
+    padding: 40px 0 48px;
+  }
+  #hero .hero-img img {
+    width: 92%;
+  }
 }

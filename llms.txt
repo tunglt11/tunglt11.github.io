@@ -1,0 +1,58 @@
+# Khang Thị Group (Công ty TNHH Công nghệ Khang Thị)
+
+> Công ty công nghệ tại Đà Nẵng, Việt Nam, mã số thuế 0401956794. Khang Thị Group tự phát triển và
+> triển khai các giải pháp tự động hóa công nghiệp (trạm cân xe tải điện tử, trạm cân tự động, xử lý
+> ảnh công nghiệp, bãi giữ xe thông minh), phần mềm quản lý theo ngành (số hóa tài liệu lưu trữ CloudBox,
+> phần mềm quản lý nhà hàng iMenu) và các dịch vụ công nghệ thông tin cho doanh nghiệp (gia công phần
+> mềm, máy chủ và email doanh nghiệp, hạ tầng mạng, bảo trì, đào tạo, tư vấn chuyển đổi số).
+
+## Thông tin doanh nghiệp
+
+- Tên pháp lý: Công ty TNHH Công nghệ Khang Thị
+- Tên thương hiệu: Khang Thị Group
+- Mã số thuế: 0401956794
+- Trụ sở: Số 1 Trần Huấn, phường Cẩm Lệ, thành phố Đà Nẵng, Việt Nam
+- Hotline và Zalo: 0978 906 456 (+84978906456)
+- Email: kinhdoanh@khangthi.com
+- Website: https://khangthi.com/
+- Phạm vi phục vụ: toàn quốc, trụ sở tại Đà Nẵng
+
+## Sản phẩm và giải pháp
+
+- [Trạm cân xe tải điện tử](https://khangthi.com/tramcanxetai.html): giải pháp tổng thể quản lý vận hành trạm cân tại nhà máy, cầu cảng và trạm cân di động; nhận diện biển số bằng xử lý ảnh, QR code và thẻ từ; chống gian lận phiếu cân bằng mã vạch hai chiều; cảm biến vị trí xe và chức năng ổn định cân ReadyWeigh; đồng bộ số liệu nhiều trạm về máy chủ đám mây.
+- [AutoWeighing - Trạm cân xe tải tự động](https://khangthi.com/autoweighing.html): trạm cân vận hành 24/7 không cần nhân viên, tự nhận diện xe, cân, lưu dữ liệu và xuất phiếu.
+- [Phần mềm trạm cân đám mây](https://tramcandientu.vn/): phần mềm cân ô tô nền tảng đám mây cho doanh nghiệp nhiều trạm cân, không phải cài đặt tại trạm.
+- [I2P - Xử lý ảnh công nghiệp](https://khangthi.com/i2p.html): machine vision kiểm tra ngoại quan, đo kích thước, đọc ký tự OCR/OCV, kiểm tra mã vạch 1D/2D và QR, phân loại sản phẩm tự động trên dây chuyền.
+- [Bãi giữ xe ô tô thông minh](https://khangthi.com/bai-giu-xe-thong-minh.html): camera nhận diện biển số, barrier và phần mềm quản lý lượt gửi, tính phí, đối chiếu xe vào - xe ra, báo cáo doanh thu theo ca.
+- [CloudBox - Số hóa tài liệu lưu trữ](https://khangthi.com/sohoa.html): số hóa, nhận dạng và lưu trữ tài liệu điện tử theo Thông tư 02/2019/TT-BNV của Bộ Nội vụ.
+- [iMenu - Menu điện tử QR gọi món](https://menudientu.com/): phần mềm quản lý nhà hàng, quán cafe, trà sữa; khách quét QR để xem menu, gọi món và thanh toán.
+
+## Bảng giá
+
+- [Bảng giá dạng văn bản cho hệ thống AI](https://khangthi.com/bang-gia.md)
+- Trạm cân xe tải điện tử 80 tấn (bàn cân 3m x 12m): 129.000.000 VND cho cấu hình cơ bản; 149.000.000 VND cho cấu hình có nhận diện biển số tự động, camera và đầu ghi 6TB. Kích thước hoặc tải trọng khác báo giá theo yêu cầu.
+- Các sản phẩm, dịch vụ còn lại: báo giá theo phạm vi khảo sát thực tế, liên hệ 0978 906 456.
+
+## Dịch vụ
+
+- [Dịch vụ công nghệ thông tin doanh nghiệp](https://khangthi.com/dich-vu-cntt.html): gia công phần mềm Web/Desktop/Mobile, máy chủ và email doanh nghiệp, thiết kế thi công hạ tầng mạng, bảo trì và nâng cấp hệ thống, đào tạo chuyên viên, quảng cáo trực tuyến.
+- [Dịch vụ chuyển đổi số doanh nghiệp](https://khangthi.com/digital.html): quy trình bốn bước khảo sát thực tế, phân tích đánh giá, đề xuất giải pháp tổng thể, triển khai và đánh giá kết quả.
+
+## Kiến thức
+
+- [Công nghệ thông tin và chuyển đổi số khác nhau thế nào?](https://khangthi.com/compare.html): bảy điểm khác biệt theo quan điểm của Bộ trưởng Bộ TT&TT Nguyễn Mạnh Hùng.
+- [Menu điện tử QR gọi món là gì?](https://khangthi.com/menu-dien-tu.html): khái niệm, lợi ích và những gì một phần mềm gọi món nhà hàng cần có.
+
+## Về công ty
+
+- [Giới thiệu Khang Thị Group](https://khangthi.com/gioi-thieu.html): hồ sơ doanh nghiệp, ba nhóm hoạt động, quy trình làm việc bốn bước.
+- [Liên hệ](https://khangthi.com/lien-he.html): hotline, Zalo, email, địa chỉ trụ sở và bảng chọn giải pháp theo nhu cầu.
+
+## Kênh chính thức
+
+- Facebook: https://www.facebook.com/khangthigroup
+- YouTube: https://www.youtube.com/@KhangThiGroup
+- TikTok: https://www.tiktok.com/@khangthi.com
+- Zalo: https://zalo.me/2221031331026970972
+
+Cập nhật: 2026-09-23

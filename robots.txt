@@ -1,0 +1,68 @@
+# robots.txt - khangthi.com
+# Công ty TNHH Công nghệ Khang Thị (Khang Thị Group)
+
+User-agent: *
+Allow: /
+
+# --- Công cụ tìm kiếm ---
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Coccocbot
+Allow: /
+
+# --- Trợ lý AI: cho phép đọc và trích dẫn nội dung ---
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+# Mô tả dành cho hệ thống AI: /llms.txt, /llms-full.txt và /bang-gia.md
+
+Sitemap: https://khangthi.com/sitemap.xml
